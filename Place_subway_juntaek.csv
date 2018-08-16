@@ -1,4 +1,4 @@
-,place_name,place_id,lat,lng,category
+,place_name,place_id,lat,lon,category
 0,가락시장,0,37.4923175,127.118104,subway
 1,가산디지털단지,1,37.48089,126.8825735,subway
 2,간석,2,37.464689,126.693408,subway
